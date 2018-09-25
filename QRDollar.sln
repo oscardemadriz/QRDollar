@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRDollar", "QRDollar\QRDollar.csproj", "{4F564C11-D03F-4EA9-8268-CF125440BAFE}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{ECF890E6-4D2C-4C4D-AA86-BE3377337117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F564C11-D03F-4EA9-8268-CF125440BAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F564C11-D03F-4EA9-8268-CF125440BAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F564C11-D03F-4EA9-8268-CF125440BAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F564C11-D03F-4EA9-8268-CF125440BAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF890E6-4D2C-4C4D-AA86-BE3377337117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF890E6-4D2C-4C4D-AA86-BE3377337117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF890E6-4D2C-4C4D-AA86-BE3377337117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF890E6-4D2C-4C4D-AA86-BE3377337117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2E313E-43D8-4796-8842-D0179A76B67B}
+	EndGlobalSection
+EndGlobal

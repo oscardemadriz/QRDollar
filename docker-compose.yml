@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  qrdollar:
+    image: ${DOCKER_REGISTRY}qrdollar
+    build:
+      context: .\QRDollar
+      dockerfile: Dockerfile
